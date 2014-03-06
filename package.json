@@ -6,8 +6,8 @@
   "keywords": ["wintersmith-plugin"],
   "license": "MIT",
   "dependencies": {
-    "stylus": ">=0.x",
-    "nib": "0.4.x",
+    "stylus": "0.x",
+    "nib": "1.x",
     "async": "0.x",
     "coffee-script": "1.x"
   },
